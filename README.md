@@ -8,6 +8,9 @@ Funcionalidade implementada:
  - `print`: chama o kernel para escrever X bytes no `stdout`.
  - `exit`: chama o kernel para encerrar o programa, retornando `0`.  
 
+## Resultado
+![image](https://user-images.githubusercontent.com/37017117/146070956-042151ec-a43a-439a-85d6-5e1a532b048b.png)  
+
 ## Compilando (Linux):
  1. `chmod +x ./build.sh`  
  2. `./build.sh`  
